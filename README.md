@@ -8,8 +8,9 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on side projects
 - 🌱 I’m currently learning python
 - 👯 I’m looking to collaborate on wizwalker and project celeste.
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: Grapes and dates
+
+<!-- Stat Cards -->
+<p align="center">
+     <img src="https://github-readme-stats.vercel.app/api?username=gShahr&show_icons=true&theme=tokyonight"/>
+</p>
