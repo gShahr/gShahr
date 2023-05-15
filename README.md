@@ -15,6 +15,7 @@ Here are some ideas to get you started:
      <img src="https://github-readme-stats.vercel.app/api?username=gShahr&show_icons=true&theme=tokyonight"/>
 </p>
 
+<h3 align="center">Languages I've used</h3>
 <!--  Langauges  -->
 <div align="center">
     <img alt="c" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="25" />
