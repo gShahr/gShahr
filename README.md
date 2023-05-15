@@ -10,6 +10,8 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on wizwalker and project celeste.
 - ⚡ Fun fact: Grapes and dates
 
+<h2 align="center">Engineer</h4>
+
 <!-- Stat Cards -->
 <p align="center">
      <img src="https://github-readme-stats.vercel.app/api?username=gShahr&show_icons=true&theme=tokyonight"/>
