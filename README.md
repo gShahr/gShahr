@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on wizwalker and project celeste.
 - ⚡ Fun fact: Grapes and dates
 
-<h2 align="center">Engineer</h4>
+<h2 align="center">Engineer and Powerlifter</h4>
 
 <!-- Stat Cards -->
 <p align="center">
