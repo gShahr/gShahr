@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on side projects
 - 🌱 I’m currently learning python
 - 👯 I’m looking to collaborate on wizwalker and project celeste. Looking for summer positions currently.
-- ⚡ Fun fact: Grapes and dates are my fav
+- ⚡ Fun fact: Grapes and dates are my fav things
 
 <h2 align="center">Engineer and Powerlifter</h4>
 
