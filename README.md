@@ -1,4 +1,4 @@
-### Hello m
+### Hello
 
 <!--
 **gShahr/gShahr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on side projects
 - 🌱 I’m currently learning python
 - 👯 I’m looking to collaborate on wizwalker and project celeste. Looking for summer positions currently.
-- ⚡ Fun fact: Grapes and dates are my fav things
+- ⚡ Fun fact: Grapes and dates
 
 <h2 align="center">Engineer and Powerlifter</h4>
 
