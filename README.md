@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on side project
 - 🌱 I’m currently learning python
 - 👯 I’m looking to collaborate on wizwalker and project celeste. Looking for summer positions currently.
-- ⚡ Fun fact: Grapes and dates
+- ⚡ Fun fact: Grapes and date
 
 <h2 align="center">Engineer and Powerlifter</h4>
 
