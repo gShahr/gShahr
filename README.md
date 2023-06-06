@@ -1,7 +1,7 @@
 ### Hellooo
 
 <!--
-**gShahr/gShahr** is repository because its `README.md` (this file) appears on your GitHub profile.
+**gShahr/gShahr** is repository because its `README.md` (this file) appears on your GitHub profile
 
 -->
 - 🔭 I’m currently working on side project
