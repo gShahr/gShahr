@@ -5,7 +5,7 @@
 
 -->
 - 🔭 I’m currently working on summer research at UML with a professor
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning japanese, chess, and competitive programming
 - 👯 I’m looking to collaborate on wizwalker and project celeste. Looking for summer positions currently.
 - ⚡ Fun fact: Grapes and date
 
