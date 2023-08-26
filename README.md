@@ -4,7 +4,7 @@
 **gShahr/gShahr** is repository because its `README.md` (this file) appears on your GitHub profile
 
 -->
-- 🔭 I’m currently working on side project
+- 🔭 I’m currently working on summer research at UML with a professor
 - 🌱 I’m currently learning python
 - 👯 I’m looking to collaborate on wizwalker and project celeste. Looking for summer positions currently.
 - ⚡ Fun fact: Grapes and date
