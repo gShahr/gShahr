@@ -8,6 +8,7 @@
 - 🌱 I’m currently learning japanese, chess, and competitive programming
 - 👯 I’m looking to collaborate on wizwalker and project celeste. Looking for summer positions currently.
 - ⚡ Fun fact: Grapes and date
+-  Currently trying to figure out software engineering and mobile robotics
 
 <h2 align="center">Engineer and Powerlifter</h4>
 
